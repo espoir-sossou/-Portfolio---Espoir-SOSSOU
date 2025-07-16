@@ -344,6 +344,24 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4 col-md-6 all popular">
+                        <div class="portfolio_box">
+                            <div class="single_portfolio">
+                                <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/globalGPlus.png') }}"
+                                    alt="" />
+                                <div class="overlay"></div>
+                                <a href="{{ asset('assets/img/portfolio/globalGPlus.png') }}" class="img-gal">
+                                    <div class="icon">
+                                        <span class="lnr lnr-cross"></span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="short_info">
+                                <h4><a href="https://globalgplus-production.up.railway.app/" target="_blank">LightVotingSystem</a></h4>
+                                <p>Global G+ est une entreprise sociale togolaise qui œuvre dans le bien-être, la formation et l’amélioration de la qualité de la vie des populations.</p>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
             </div>
