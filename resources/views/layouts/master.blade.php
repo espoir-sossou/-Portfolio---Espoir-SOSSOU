@@ -7,14 +7,14 @@
 
     <title>🧑‍💻🚀Portfolio-Espoir-SOSSOU</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{ asset('secure_asset/css/bootstrap.css') }}" />
-    <link rel="stylesheet" href="{{ asset('secure_asset/vendors/linericon/style.css') }}" />
-    <link rel="stylesheet" href="{{ asset('secure_asset/css/font-awesome.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('secure_asset/vendors/owl-carousel/owl.carousel.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('secure_asset/css/magnific-popup.css') }}" />
-    <link rel="stylesheet" href="{{ asset('secure_asset/vendors/nice-select/css/nice-select.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/vendors/linericon/style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/vendors/owl-carousel/owl.carousel.min.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/vendors/nice-select/css/nice-select.css') }}" />
     <!-- main css -->
-    <link rel="stylesheet" href="{{ asset('secure_asset/css/style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}" />
 
     <style>
         .logo_h img {
@@ -124,21 +124,21 @@
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="{{ asset('secure_asset/js/jquery-3.2.1.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/popper.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/bootstrap.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/stellar.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/jquery.magnific-popup.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/vendors/nice-select/js/jquery.nice-select.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/vendors/isotope/imagesloaded.pkgd.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/vendors/isotope/isotope-min.js') }}"></script>
-    <script src="{{ asset('secure_asset/vendors/owl-carousel/owl.carousel.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/jquery.ajaxchimp.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/mail-script.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery-3.2.1.min.js') }}"></script>
+    <script src="{{ asset('assets/js/popper.js') }}"></script>
+    <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('assets/js/stellar.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('assets/vendors/nice-select/js/jquery.nice-select.min.js') }}"></script>
+    <script src="{{ asset('assets/vendors/isotope/imagesloaded.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/vendors/isotope/isotope-min.js') }}"></script>
+    <script src="{{ asset('assets/vendors/owl-carousel/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('assets/js/jquery.ajaxchimp.min.js') }}"></script>
+    <script src="{{ asset('assets/js/mail-script.js') }}"></script>
     <!-- Google Maps API (Reste en HTTPS) -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-    <script src="{{ asset('secure_asset/js/gmaps.min.js') }}"></script>
-    <script src="{{ asset('secure_asset/js/theme.js') }}"></script>
+    <script src="{{ asset('assets/js/gmaps.min.js') }}"></script>
+    <script src="{{ asset('assets/js/theme.js') }}"></script>
 
 </body>
 
